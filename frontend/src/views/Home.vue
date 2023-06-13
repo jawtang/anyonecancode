@@ -7,7 +7,7 @@
         <div id="top"></div>
         <div id="bottom"></div>
         <b-navbar-item id="fontnavbar" class="title is-2" style="color: rgb(224, 19, 19)">
-          Jawtang Miligram
+          JawTang Miligram
         </b-navbar-item>
       </template>
     </b-navbar>
